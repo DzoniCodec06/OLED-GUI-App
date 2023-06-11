@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Program for writing on OLED display with arduino",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nikola Bojinovic",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.1.0"
+  }
+}
